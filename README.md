@@ -24,3 +24,7 @@ The MIT License was chosen to:
 - Keep compliance simple
 - Protect contributors from liability
 - Maintain compatibility with most open-source projects
+
+## Notes
+
+Project log reinitialized on 2025-01-19.
