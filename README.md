@@ -6,7 +6,9 @@ See [market_sim](market_sim/README.md) for more details on the market simulation
 
 ## Usage
 
-
+```
+python3 test_db_operations.py
+```
 
 ## Market Dynamics and Trading Simulation
 
