@@ -1,0 +1,197 @@
+Price-Related Criteria:
+
+    Current Price
+    Price-to-Earnings (P/E) Ratio
+    P/E (TTM)
+    Forward P/E
+    Price-to-Book (P/B) Ratio
+    Price-to-Sales (P/S) Ratio
+    Price-to-Cash Flow (P/CF) Ratio
+    Price-to-Free Cash Flow
+    Price-to-Earnings Growth (PEG) Ratio
+    52-Week High
+    52-Week Low
+    Price Change (Percentage)
+    Relative Price Strength
+    Dividend Price/Ex-Dividend Date
+
+Market Capitalization (Size):
+
+    Market Capitalization
+    Small Cap
+    Mid Cap
+    Large Cap
+    Mega Cap
+    Enterprise Value (EV)
+
+Volume & Liquidity:
+
+    Average Daily Volume
+    Current Volume
+    Volume Change (Percentage)
+    Shares Outstanding
+    Float
+    Float Short
+    Bid-Ask Spread
+
+Growth Metrics:
+
+    Earnings Per Share (EPS)
+    EPS (TTM)
+    EPS Growth (1-Year, 5-Year, 10-Year)
+    Revenue
+    Revenue Growth (1-Year, 5-Year)
+    Operating Income
+    Operating Margin
+    Net Income
+    Net Profit Margin
+    EBITDA
+    EBITDA Margin
+    Free Cash Flow
+    Cash Flow per Share
+    Dividend Growth (5-Year)
+    Sales Growth
+
+Valuation Metrics:
+
+    EV/EBITDA Ratio
+    EV/Revenue Ratio
+    Enterprise Value per Share
+    Dividend Yield
+    Dividend Payout Ratio
+    Cash Flow from Operations
+    Book Value per Share
+    Tangible Book Value
+
+Profitability Metrics:
+
+    Return on Equity (ROE)
+    Return on Assets (ROA)
+    Return on Investment (ROI)
+    Gross Profit Margin
+    Operating Profit Margin
+    Net Profit Margin
+    Return on Capital Employed (ROCE)
+    Return on Invested Capital (ROIC)
+    Asset Turnover
+    Gross Margin
+
+Debt & Leverage Metrics:
+
+    Debt-to-Equity Ratio
+    Debt-to-Assets Ratio
+    Total Debt
+    Long-Term Debt
+    Quick Ratio
+    Current Ratio
+    Interest Coverage Ratio
+    Leverage Ratio
+    Net Debt
+    Debt Coverage Ratio
+
+Efficiency & Activity Ratios:
+
+    Inventory Turnover
+    Receivables Turnover
+    Asset Turnover Ratio
+    Days Sales Outstanding (DSO)
+    Days Inventory Outstanding (DIO)
+    Days Payable Outstanding (DPO)
+    Cash Conversion Cycle
+
+Volatility & Risk Metrics:
+
+    Beta (Stock Volatility)
+    Alpha (Risk-Adjusted Return)
+    Standard Deviation (Volatility)
+    Maximum Drawdown
+    Sharpe Ratio
+    Sortino Ratio
+    Value at Risk (VaR)
+    Correlation with Market
+    Implied Volatility
+    Historical Volatility
+
+Technical Indicators:
+
+    Moving Averages (SMA, EMA):
+        50-day Moving Average
+        200-day Moving Average
+    Moving Average Convergence Divergence (MACD)
+    Relative Strength Index (RSI)
+    Bollinger Bands
+    Stochastic Oscillator
+    Average True Range (ATR)
+    On-Balance Volume (OBV)
+    Price Oscillator
+    Moving Average Crossovers
+    Fibonacci Retracement Levels
+    Momentum Indicators
+
+Dividend-Related Metrics:
+
+    Dividend Yield
+    Dividend Payout Ratio
+    Dividend Frequency
+    Ex-Dividend Date
+    Dividend Growth Rate
+    Dividend Coverage Ratio
+
+Insider & Institutional Ownership:
+
+    Insider Ownership
+    Institutional Ownership
+    Insider Buying/Selling Activity
+    Institutional Activity (Buy/Sell)
+
+Market Sentiment & Trends:
+
+    Analyst Ratings (Buy/Hold/Sell)
+    Analyst Target Price
+    Short Interest Ratio
+    Short Float Percentage
+    Sentiment Indicators (Bullish/Bearish Trends)
+    Hedge Fund Ownership
+    Stock Twits Sentiment
+    News Sentiment Analysis
+    Stock Recommendations
+
+Growth & Value Factors:
+
+    Earnings Yield
+    Value Score (Growth vs. Value)
+    Growth Score
+    Value Score
+    Growth-to-Value Ratio
+
+Other Financial Metrics:
+
+    Cash & Cash Equivalents
+    Intangible Assets
+    Contingent Liabilities
+    Capital Expenditures (CapEx)
+    Operating Cash Flow
+    Free Cash Flow per Share
+    Operating Income Growth
+    Free Cash Flow Yield
+    Cash Flow Yield
+
+Company Characteristics:
+
+    Industry
+    Sector
+    Country/Region
+    Headquarters Location
+    Employee Count
+    Age of Company
+    Ownership Structure (Public/Private)
+    IPO Date
+
+Macroeconomic Factors:
+
+    Interest Rate Sensitivity
+    Economic Moat
+    GDP Growth
+    Inflation Sensitivity
+    Foreign Exchange Exposure
+    Geopolitical Risk Exposure
